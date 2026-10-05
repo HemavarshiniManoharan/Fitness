@@ -134,7 +134,7 @@ The dashboard helps users:
 
 ### 👥 Members & Demographics
 
-![Fitness Members Dashboard](Fitness%20Members.png)
+![Fitness Members Dashboard](https://github.com/HemavarshiniManoharan/Fitness/blob/main/Members.png)
 
 ---
 
