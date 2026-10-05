@@ -130,7 +130,7 @@ The dashboard helps users:
 
 ### ⚖️ BMI & Calorie Calculator
 
-![Fitness BMI Calculator](Fitness%20Calculator.png)
+![Fitness BMI Calculator](https://github.com/HemavarshiniManoharan/Fitness/blob/main/Calculator.png)
 
 ### 👥 Members & Demographics
 
