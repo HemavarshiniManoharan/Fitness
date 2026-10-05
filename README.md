@@ -122,7 +122,7 @@ The dashboard helps users:
 
 ### 🏠 Home Dashboard
 
-![Fitness Home Dashboard](Fitness%20Home.png)
+![Fitness Home Dashboard](https://github.com/HemavarshiniManoharan/Fitness/blob/main/Home.png)
 
 ### 📊 Overall Dashboard
 
