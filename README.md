@@ -126,7 +126,7 @@ The dashboard helps users:
 
 ### 📊 Overall Dashboard
 
-![Fitness Overall Dashboard](Fitness%20Overall.png)
+![Fitness Overall Dashboard](https://github.com/HemavarshiniManoharan/Fitness/blob/main/Overall.png)
 
 ### ⚖️ BMI & Calorie Calculator
 
